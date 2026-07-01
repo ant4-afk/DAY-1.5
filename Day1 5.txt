@@ -1,4 +1,8 @@
 Day 1.5 
 Just Trying to have idea about Git
+<<<<<<< HEAD
 I have updated it, will it update. 
 Ok
+=======
+what is this
+>>>>>>> 3ab791bab4f4e43f433fef5cae2413ec67c8c0f9
